@@ -148,7 +148,7 @@ h6 {
 }
 
 p {
-	color      : #aaaaaa;
+	color      : #333333;
 	font-size  : 13px;
 	font-weight: 400;
 	line-height: 22px;
@@ -219,7 +219,7 @@ p {
 }
 
 .text-gray {
-	color: #f9f9f9 !important;
+	color: #333333 !important;
 }
 
 .text-black {
@@ -1165,17 +1165,17 @@ section {
 
 .bg-graphite {
 	color           : #ffffff;
-	background-color: #454545 !important;
+	background-color: #333333 !important;
 }
 
 .bg-gray-0 {
 	background-color: #EEEEEE !important;
-	color           : #454545;
+	color           : #333333;
 }
 
 .bg-gray-1 {
 	background-color: #ECECEC !important;
-	color           : #454545;
+	color           : #333333;
 }
 
 .bg-gray-2 {
@@ -1190,22 +1190,22 @@ section {
 
 .bg-gray-5 {
 	background-color: #ECF0F1 !important;
-	color           : #454545;
+	color           : #333333;
 }
 
 .bg-gray-4 {
 	backgrouund-color: #F2F1EF !important;
-	color            : #454545;
+	color            : #333333;
 }
 
 .bg-gray-6 {
 	background-color: #D2D7D3 !important;
-	color           : #454545;
+	color           : #333333;
 }
 
 .bg-gray-7 {
 	background-color: #E6E6E6 !important;
-	color           : #454545;
+	color           : #333333;
 }
 
 .bg-orange-1 {
@@ -2051,7 +2051,7 @@ section {
 }
 
 .testimonial-panel .testimonial--body p {
-	color        : #999999;
+	color        : #333333;
 	font-family  : "Merriweather", serif;
 	font-size    : 20px;
 	font-style   : italic;
@@ -2070,7 +2070,7 @@ section {
 }
 
 .testimonial-panel .testimonial--meta a p {
-	color        : #999999;
+	color        : #333333;
 	font-size    : 12px;
 	font-weight  : 400;
 	line-height  : 1;
@@ -2228,7 +2228,7 @@ section {
 }
 
 .banner p {
-	color        : #999999;
+	color        : #333333;
 	font-family  : Ubuntu;
 	font-size    : 18px;
 	font-weight  : 400;
